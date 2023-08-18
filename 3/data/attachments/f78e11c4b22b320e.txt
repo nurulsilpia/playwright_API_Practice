@@ -1,0 +1,8 @@
+{
+  id: '64df49a5a594149e623ae24c',
+  firstName: 'Im',
+  lastName: 'Tester Updated',
+  email: 'zosfo@example.com',
+  registerDate: '2023-08-18T10:36:21.357Z',
+  updatedDate: '2023-08-18T10:36:21.519Z'
+}

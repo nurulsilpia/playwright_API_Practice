@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 18 10:36:21 GMT 2023","Fri Aug 18 10:36:21 GMT 2023","167","chromium","","Test user controller","","","Delete user",""
+"passed","Fri Aug 18 10:36:20 GMT 2023","Fri Aug 18 10:36:21 GMT 2023","295","chromium","","Test user controller","","","Get user by id",""
+"passed","Fri Aug 18 10:36:21 GMT 2023","Fri Aug 18 10:36:21 GMT 2023","164","chromium","","Test user controller","","","Update user",""
+"passed","Fri Aug 18 10:36:21 GMT 2023","Fri Aug 18 10:36:21 GMT 2023","246","chromium","","Test user controller","","","Create user",""
+"passed","Fri Aug 18 10:36:20 GMT 2023","Fri Aug 18 10:36:20 GMT 2023","326","chromium","","Test user controller","","","Get list user",""
