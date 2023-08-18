@@ -1,0 +1,24 @@
+{
+  "name": "playwright_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "npx ts-node helper/init.ts",
+    "test": "npx playwright test",
+    "report": "allure generate allure-results --clean -o allure-report && allure open allure-report"
+  },
+  "keywords": [],
+  "author": "nurulsilpia",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1",
+    "@types/chance": "^1.1.3"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.23.1",
+    "allure-playwright": "^2.5.0",
+    "chance": "^1.1.11",
+    "fs-extra": "^11.1.1"
+  }
+}
