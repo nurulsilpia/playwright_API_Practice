@@ -1,0 +1,20 @@
+{
+  id: '60d0fe4f5311236168a109de',
+  title: 'miss',
+  firstName: 'Bessie',
+  lastName: 'Burke',
+  picture: 'https://randomuser.me/api/portraits/med/women/72.jpg',
+  gender: 'female',
+  email: 'bessie.burke@example.com',
+  dateOfBirth: '1953-07-29T09:05:23.955Z',
+  phone: '01-4715-0408',
+  location: {
+    street: '6507, Groveland Terrace',
+    city: 'Sydney',
+    state: 'New South Wales',
+    country: 'Australia',
+    timezone: '-2:00'
+  },
+  registerDate: '2021-06-21T21:02:10.801Z',
+  updatedDate: '2021-06-21T21:02:10.801Z'
+}
